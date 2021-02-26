@@ -8,10 +8,26 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.21.1",
+    "big.js": "^6.0.3",
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "element-ui": "^2.15.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "socket.io-client": "^3.1.1",
+    "tailwindcss": "^2.0.3",
+    "vue": "^2.6.11",
+    "vue-router": "^3.5.1",
+    "vuedraggable": "^2.24.3",
+    "vuex": "^3.6.2"
   },
   "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/big.js": "^6.0.2",
+    "@types/lodash": "^4.14.168",
+    "@types/moment": "^2.13.0",
+    "@types/socket.io-client": "^1.4.35",
+    "@types/vuedraggable": "^2.23.2",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
